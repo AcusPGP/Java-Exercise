@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 import static java.lang.Math.max;
 
+/**
+ * Exercise 8: Sum for 2 big integers.
+ */
 public class SumBigInteger {
 
     /**
