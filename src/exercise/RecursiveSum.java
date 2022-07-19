@@ -1,4 +1,4 @@
-package exercises;
+package exercise;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class RecursiveSum {
     }
 
     /**
-     * Exercise 6
+     * Exercise 6: S(n) = 1 + 2 + 3 … + n
      * @param n
      * @return
      */
@@ -27,7 +27,7 @@ public class RecursiveSum {
     }
 
     /**
-     * Exercise 7
+     * Exercise 7: S(n) = 1^2 + 2^2 + 3^2 + … + n^2
      * @param n
      * @return
      */
