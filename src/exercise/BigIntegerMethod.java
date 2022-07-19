@@ -3,6 +3,9 @@ package exercise;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * Exercise 8,9,10,11: Calculate the sum, subtract, divide, multiply between two big integers
+ */
 public class BigIntegerMethod {
     public static void main(String[] args) {
         BigInteger s1, s2;
