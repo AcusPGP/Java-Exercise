@@ -3,7 +3,7 @@ package exercise;
 import java.util.Scanner;
 
 /**
- * Check if the digits of the number are total odd or not
+ * Exercise 19: Check if the digits of the number are total odd or not
  */
 public class CheckDigitOdd {
 
