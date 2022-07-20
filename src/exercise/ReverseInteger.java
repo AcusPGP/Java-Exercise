@@ -2,7 +2,13 @@ package exercise;
 
 import java.util.Scanner;
 
+/**
+ * Exercise 18: Reverse an integer
+ */
 public class ReverseInteger {
+    /**
+     * Get input as a string - output the result as an integer
+     */
     static void getInput() {
         while (true) {
             String s, s1;
@@ -17,6 +23,12 @@ public class ReverseInteger {
         }
     }
 
+
+    /**
+     * Reverse the string
+     * @param s
+     * @return
+     */
     static String reverse(String s) {
         String s1 = "";
         for (int i = 0; i < s.length(); i++) {
