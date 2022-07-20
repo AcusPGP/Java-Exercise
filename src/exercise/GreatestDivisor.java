@@ -3,7 +3,7 @@ package exercise;
 import java.util.Scanner;
 
 /**
- * Find the greatest divisor of two numbers.
+ * Exercise 20: Find the greatest divisor of two numbers.
  */
 public class GreatestDivisor {
     public static void main(String[] args) {
