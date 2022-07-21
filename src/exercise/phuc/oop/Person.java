@@ -1,6 +1,6 @@
 package exercises.phuc.oop;
 
-public class Person implements IGeneral {
+public abstract class Person implements IGeneral {
 
     private String name;
 
