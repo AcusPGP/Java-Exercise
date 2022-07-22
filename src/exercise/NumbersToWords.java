@@ -50,6 +50,6 @@ public class NumbersToWords {
 
 
     public static void main(String[] args) {
-        System.out.println(solution(1000));
+        System.out.println(solution(10001));
     }
 }
