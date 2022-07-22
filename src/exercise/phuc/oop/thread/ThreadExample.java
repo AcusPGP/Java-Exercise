@@ -1,4 +1,4 @@
-package exercises.phuc.oop.thread;
+package exercise.phuc.oop.thread;
 
 public class ThreadExample {
 

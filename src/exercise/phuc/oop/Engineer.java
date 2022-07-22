@@ -1,4 +1,4 @@
-package exercises.phuc.oop;
+package exercise.phuc.oop;
 
-public class Engineer extends Person {
+public class Engineer extends exercise.phuc.oop.Person {
 }

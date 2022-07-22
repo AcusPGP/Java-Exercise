@@ -1,4 +1,4 @@
-package exercises.phuc.oop.singlelinkedlist;
+package exercise.phuc.oop.singlelinkedlist;
 
 
 // Java program to implement

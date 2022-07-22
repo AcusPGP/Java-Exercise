@@ -1,4 +1,4 @@
-package exercises.phuc.oop.hash;
+package exercise.phuc.oop.hash;
 
 import java.util.HashMap;
 import java.util.Map;

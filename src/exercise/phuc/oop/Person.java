@@ -1,4 +1,4 @@
-package exercises.phuc.oop;
+package exercise.phuc.oop;
 
 public abstract class Person implements IGeneral {
 
