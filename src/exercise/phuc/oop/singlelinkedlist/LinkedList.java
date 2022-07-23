@@ -1,8 +1,9 @@
 package exercise.phuc.oop.singlelinkedlist;
 
 
-// Java program to implement
-// a Singly Linked List
+/**
+ *
+ */
 public class LinkedList {
 
     Node head; // head of list
