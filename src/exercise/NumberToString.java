@@ -1,5 +1,6 @@
 package exercise;
 
+import java.util.LinkedList;
 import java.util.Scanner;
 
 public class NumberToString {
@@ -17,6 +18,8 @@ public class NumberToString {
     public static String text = "";
 
     public static void main(String[] args) {
+
+        LinkedList list = new LinkedList();
         System.out.println("Enter Number to convert into words");
         Scanner sc = new Scanner(System.in);
         long num = sc.nextInt();
