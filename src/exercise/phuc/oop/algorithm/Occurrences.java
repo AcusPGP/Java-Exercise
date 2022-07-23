@@ -3,7 +3,7 @@ package exercise.phuc.oop.algorithm;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Occurencies {
+public class Occurrences {
 
     public Map<Integer, Integer> findOccurency(int []array) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -25,7 +25,7 @@ public class Occurencies {
     public static void main(String[] args) {
         int []array = {1, 2, 1, 3, 1, 2};
 
-        Occurencies o = new Occurencies();
+        Occurrences o = new Occurrences();
         o.findOccurency(array);
     }
 
